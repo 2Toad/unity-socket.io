@@ -1,6 +1,11 @@
 --------------------------------------------------------------------------------
-                          SocketIO for Unity - v1.0.0                          
+        DEPRECATED                   SocketIO for Unity - v1.0.0                          
 --------------------------------------------------------------------------------
+
+# Deprecation Notice #
+
+  I haven't used this package in almost 2 years now, the main protocol will
+  probably work, but I no longer mantain it nor add support for new features.
 
 # Overview #
   
@@ -10,13 +15,6 @@
   
   While connected, Socket.IO run on it's own thread to avoid blocking the main
   thread. Events are queued and dispatched on the next frame they are received.
-
-
-# Support #
-  
-  fpanettieri@gmail.com
-  skype: fabio.panettieri
-
 
 # Quick Start #
 
